@@ -2,7 +2,7 @@
 
 * [InfinitySwap and Two-Way Liquidity Pool Bridge](README.md)
 
-## Architecture and Tech Stack
+## 📐 Architecture and Tech Stack
 
 * [🚩 Architecture issues](architecture-and-tech-stack/architecture-issues.md)
 * [👥 Stakeholders](architecture-and-tech-stack/stakeholders.md)
@@ -17,23 +17,12 @@
     * [🔍 Generator Node](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/generator-node.md)
     * [🕵 Validator Nodes](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/validator-nodes.md)
     * [✒ Master Node](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/master-node.md)
+* [🔏 Security](architecture-and-tech-stack/security.md)
 
-## Fundamentals
+## 🗄 Resources
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [🗃 Resources and Links](resources/resources-and-links/README.md)
+  * [Mainnet Tech Stack Overview](resources/resources-and-links/mainnet-tech-stack-overview.md)
+  * [Pocket Network Integration (Non-EVM Network) Example](resources/resources-and-links/pocket-network-integration-non-evm-network-example.md)
+  * [Deployment Pipeline Updates](resources/resources-and-links/deployment-pipeline-updates.md)
+  * [Connecting EVM and Non-EVM](resources/resources-and-links/connecting-evm-and-non-evm.md)
