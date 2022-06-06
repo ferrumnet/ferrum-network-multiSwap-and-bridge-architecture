@@ -16,6 +16,7 @@
     * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/overview.md)
     * [🔍 Generator Node](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/generator-node.md)
     * [🕵 Validator Nodes](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/validator-nodes.md)
+    * [✒ Master Node](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/master-node.md)
 
 ## Fundamentals
 
