@@ -11,6 +11,7 @@
   * [⚙ Core Components of Bridging](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/README.md)
     * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/overview.md)
     * [🌉 Bridge Pool](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool.md)
+    * [🏦 Tapping Into DEX Liquidity](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/tapping-into-dex-liquidity.md)
     * [📬 General Tax Distributor](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/general-tax-distributor.md)
   * [⚡ Node Infrastructure](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/README.md)
     * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/overview.md)
@@ -22,7 +23,7 @@
 ## 🗄 Resources
 
 * [🗃 Resources and Links](resources/resources-and-links/README.md)
-  * [Mainnet Tech Stack Overview](resources/resources-and-links/mainnet-tech-stack-overview.md)
-  * [Pocket Network Integration (Non-EVM Network) Example](resources/resources-and-links/pocket-network-integration-non-evm-network-example.md)
+  * [Mainnet Tech Stack Overview](fundamentals/projects.md)
+  * [Pocket Network Integration (Non-EVM Network) Example](fundamentals/members.md)
   * [Deployment Pipeline Updates](resources/resources-and-links/deployment-pipeline-updates.md)
   * [Connecting EVM and Non-EVM](resources/resources-and-links/connecting-evm-and-non-evm.md)

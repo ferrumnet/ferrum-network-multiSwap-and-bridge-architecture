@@ -2,4 +2,4 @@
 
 {% embed url="https://isoflow.io/project/cl1qsot9nsybu0838ylm2gn23" %}
 
-![](<../../.gitbook/assets/Pocket Network (Non-EVM) Integration Example.jpg>)
+![](<../.gitbook/assets/Pocket Network (Non-EVM) Integration Example.jpg>)
