@@ -1,6 +1,6 @@
 # 📐 Overview
 
-From a smart contract, module, and blockchain interaction standpoint there are a few core components that enable multi-chain bridging of assets.
+From a smart contract, module, and blockchain interaction standpoint there are a few core components that enable multi-chain bridging and swapping of assets.
 
 1. Bridge Pool
 2. General Tax Distributor
