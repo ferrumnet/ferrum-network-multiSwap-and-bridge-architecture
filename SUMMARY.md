@@ -24,7 +24,7 @@
 ## 🗄 Resources
 
 * [🗃 Resources and Links](resources/resources-and-links/README.md)
-  * [Mainnet Tech Stack Overview](fundamentals/projects.md)
-  * [Pocket Network Integration (Non-EVM Network) Example](fundamentals/members.md)
+  * [Mainnet Tech Stack Overview](resources/resources-and-links/mainnet-tech-stack-overview.md)
+  * [Pocket Network Integration (Non-EVM Network) Example](resources/resources-and-links/pocket-network-integration-non-evm-network-example.md)
   * [Deployment Pipeline Updates](resources/resources-and-links/deployment-pipeline-updates.md)
   * [Connecting EVM and Non-EVM](resources/resources-and-links/connecting-evm-and-non-evm.md)
