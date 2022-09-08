@@ -8,7 +8,7 @@ The `bridgePool` does distribute fees. It follows [SRP](https://en.wikipedia.org
 
 ### Pre-Requisite
 
-You cannot configure a fee through the `setFee function until you have configured mapping of a token through allowTarget`. See "Mapping of Tokens on Bridge Pool" for more details.
+You cannot configure a fee through the `setFee` function until you have configured the mapping of a token through `allowTarget`. See "Mapping of Tokens on Bridge Pool" for more details.
 
 {% content-ref url="mapping-tokens-on-bridge-pool.md" %}
 [mapping-tokens-on-bridge-pool.md](mapping-tokens-on-bridge-pool.md)
@@ -22,4 +22,4 @@ You cannot configure a fee through the `setFee function until you have configure
    2. `fee10000 (uint256)`
       1. This will be the percentage integer followed by two zeros. For example, if the fee is 1% then enter 100, if it's 2% then enter 200.
    3. Write the transaction and proceed through the MetaMask Prompts. _You can check the transaction status by clicking the_ `View Transaction` button.
-2. Now go to the other networks and repeat this process to complete the mapping. For example, if you have just completed mapping in BSC Testnet and you are mapping this token on Rinkeby and Mumbai (Polygon) Testnet as well, then you will need to go and repeat this process on Rinkeby and Mumbai (Polygon) Testnet now.
+2. Now go to the other networks and repeat this process to complete the fee configuration. For example, if you have just completed configuring fees in BSC Testnet and you are mapping this token on Rinkeby and Mumbai (Polygon) Testnet as well, then you will need to go and repeat this process on Rinkeby and Mumbai (Polygon) Testnet now to ensure `bridgeFees` are configured correctly.
