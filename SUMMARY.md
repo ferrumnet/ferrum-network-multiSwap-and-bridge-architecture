@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MultiSwap and Two-Way Liquidity Pool Bridge](README.md)
+* [MultiSwap and MultiChain Liquidity Pool Bridge](README.md)
 
 ## 📐 Architecture and Tech Stack
 

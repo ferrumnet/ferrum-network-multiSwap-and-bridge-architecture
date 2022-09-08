@@ -9,4 +9,4 @@ The `bridgePool` is a smart contract deployed on each network where bridging of 
 3. Bridging of assets
    1. Swap initiation
    2. Withdrawals
-4. Fee collection and transfer to `generalTaxDistributor for distribution`
+4. Fee collection and transfer to `generalTaxDistributor` for distribution
