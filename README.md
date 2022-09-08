@@ -1,5 +1,7 @@
 ---
-description: Learn about Ferrum Networks InfinitySwap product overview and background.
+description: >-
+  Learn about Ferrum Networks MultiSwap and Two-Way Liquidity Pool Bridge
+  product overview and background.
 ---
 
 # MultiSwap and Two-Way Liquidity Pool Bridge

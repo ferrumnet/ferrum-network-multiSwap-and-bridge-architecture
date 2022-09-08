@@ -13,7 +13,7 @@
     * [🌉 Bridge Pool](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool.md)
     * [🏦 Tapping Into DEX Liquidity](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/tapping-into-dex-liquidity.md)
     * [📬 General Tax Distributor](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/general-tax-distributor.md)
-  * [⚖ Core Components of MultiSwap](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/README.md)
+  * [⚖ Core Components of MultiSwap](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap.md)
     * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/overview.md)
     * [Outline](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/outline.md)
   * [⚡ Node Infrastructure](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/README.md)
