@@ -10,7 +10,7 @@
   * [🛠 dApp Tech Stack](architecture-and-tech-stack/general-architecture-overview/dapp-tech-stack.md)
   * [⚙ Core Components of Bridging](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/README.md)
     * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/overview.md)
-    * [🌉 Bridge Pool](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool.md)
+    * [🌁 Bridge Pool](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool.md)
       * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/overview.md)
       * [🤝 Mapping Tokens on Bridge Pool](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/mapping-tokens-on-bridge-pool.md)
       * [⚖ Liquidity Management](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management.md)
