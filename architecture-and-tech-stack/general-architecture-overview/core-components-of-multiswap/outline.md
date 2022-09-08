@@ -12,10 +12,8 @@ Fee
 
 1. FRM
 2. cFRM
-3. FRMx
-4. cFRMx
-5. Network Fee Currency
-6. USDC
+3. Network Fee Currency
+4. USDC
 
 Widgetization
 

@@ -14,7 +14,7 @@
       * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/overview.md)
       * [🤝 Mapping Tokens on Bridge Pool](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/mapping-tokens-on-bridge-pool.md)
       * [⚖ Liquidity Management](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management.md)
-      * [🌉 Bridging of Assets](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/bridging-of-assets.md)
+      * [🌁 Bridging of Assets](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/bridging-of-assets.md)
       * [🪙 Setting Fees on Withdrawal](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/setting-fees-on-withdrawal.md)
     * [📬 General Tax Distributor](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/general-tax-distributor.md)
   * [⚖ Core Components of MultiSwap](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap.md)
