@@ -1,3 +1,7 @@
+---
+description: Learn how tokens can be mapped for bridging across networks
+---
+
 # 🤝 Mapping Tokens on Bridge Pool
 
 There are 2 things to setup in the `bridgePool` smart contract `allowtarget` and `setFee`. In this section we'll cover mapping of tokens through `allowTarget`. To learn more about Setting Fees on Withdrawal see:
