@@ -1,5 +1,11 @@
 # 📐 Overview
 
+{% hint style="danger" %}
+This section is being updated. Please rever to the "Core Components of Bridging" Section for information regarding the MultiChain Liquidity Pool Bridge
+{% endhint %}
+
+
+
 From a smart contract, module, and blockchain interaction standpoint there are a few core components that enable multi-chain bridging and swapping of assets through the MultiSwap protocol.
 
 1. Bridge Pool
