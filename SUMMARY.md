@@ -14,7 +14,7 @@
       * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/overview.md)
       * [🤝 Mapping Tokens on Bridge Pool](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/mapping-tokens-on-bridge-pool.md)
       * [🪙 Setting Fees on Withdrawal](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/setting-fees-on-withdrawal.md)
-      * [⚖ Liquidity Management](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management/README.md)
+      * [⚖ Liquidity Management](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management.md)
         * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management/overview.md)
         * [🚀 Liquidity Setup](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management/liquidity-setup.md)
         * [🪙 Liquidity Replenishment With Reverse Swaps](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management/liquidity-replenishment-with-reverse-swaps.md)

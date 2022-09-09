@@ -30,7 +30,7 @@ Before adding liquidity, you will need to complete Mapping Tokens on Bridge Pool
 [mapping-tokens-on-bridge-pool.md](../mapping-tokens-on-bridge-pool.md)
 {% endcontent-ref %}
 
-### Setting up Liquidity on the Bridge Pool Smart Contract
+### Liquidity Balancing Across Bridge Pool Smart Contract
 
 The MultiChain Liquidity Pool Bridge uses a balancing mechanism. This mechanism requires the user to deposit tokens into the `bridgePool` on the source chain. This deposit triggers a process for validating the swap and authorizing the withdrawal of tokens in the intended destination chain. Once the validation is completed, an authorized withdrawal item is generated, which enables the user to withdraw the tokens from the desired destination chain.&#x20;
 
