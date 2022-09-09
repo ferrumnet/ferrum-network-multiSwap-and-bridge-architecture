@@ -47,3 +47,7 @@ In order to facilitate the transfer of assets across chains in the manner descri
 #### Withdrawal Initialization on Destination Chain - Decreases Liquidity Balance in BridgePool on Destination Chain
 
 <figure><img src="../../../../.gitbook/assets/MultiChain Bridge Withdrawal - Token Withdrawal - BridgePool.gif" alt=""><figcaption><p>Withdrawal Initialization on Destination Chain Withdraws Tokens From The Bridge Pool Into The User's Wallet Into - <a href="https://isoflow.io/app/project/ckzr24q3hm0ch0838p1gpdz0k">See Full Flow</a></p></figcaption></figure>
+
+#### Liquidity Management by Token Administrator
+
+The Token Administrator, typically the project, organization, or DAO who launched the original token is responsible for managing liquidity in the `bridgePool` smart contracts. This is similar to managing sufficient liquidity in a DEX liquidity pool to support trading. If liquidity is drained on the `bridgePool` then withdrawals will not be possible until sufficient liquidity is replenished through the liquidity management dashboard.
