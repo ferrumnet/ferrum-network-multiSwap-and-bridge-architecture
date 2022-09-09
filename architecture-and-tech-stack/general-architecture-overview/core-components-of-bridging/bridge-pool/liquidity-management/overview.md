@@ -1,8 +1,4 @@
----
-description: Learn how liquidity is managed in the MultiChain Liquidity Pool Bridge
----
-
-# ⚖ Liquidity Management
+# 📐 Overview
 
 ### Risk Mitigation through Decentralization
 
@@ -30,8 +26,8 @@ A significant benefit of this approach is the ability to conduct hundreds of mil
 
 Before adding liquidity, you will need to complete Mapping Tokens on Bridge Pool.&#x20;
 
-{% content-ref url="mapping-tokens-on-bridge-pool.md" %}
-[mapping-tokens-on-bridge-pool.md](mapping-tokens-on-bridge-pool.md)
+{% content-ref url="../mapping-tokens-on-bridge-pool.md" %}
+[mapping-tokens-on-bridge-pool.md](../mapping-tokens-on-bridge-pool.md)
 {% endcontent-ref %}
 
 ### Setting up Liquidity on the Bridge Pool Smart Contract
@@ -42,11 +38,11 @@ In order to facilitate the transfer of assets across chains in the manner descri
 
 #### Swap Initialization on Source Chain - Increases Liquidity Balance in BridgePool on Source Chain
 
-<figure><img src="../../../../.gitbook/assets/MultiChain Bridge Swap - Token Deposit - BridgePool.gif" alt=""><figcaption><p>Swap Initialization on Source Chain Deposits Tokens From User's Wallet Into The Bridge Pool - <a href="https://isoflow.io/app/project/ckzr24q3hm0ch0838p1gpdz0k">See Full Flow</a></p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/MultiChain Bridge Swap - Token Deposit - BridgePool.gif" alt=""><figcaption><p>Swap Initialization on Source Chain Deposits Tokens From User's Wallet Into The Bridge Pool - <a href="https://isoflow.io/app/project/ckzr24q3hm0ch0838p1gpdz0k">See Full Flow</a></p></figcaption></figure>
 
 #### Withdrawal Initialization on Destination Chain - Decreases Liquidity Balance in BridgePool on Destination Chain
 
-<figure><img src="../../../../.gitbook/assets/MultiChain Bridge Withdrawal - Token Withdrawal - BridgePool.gif" alt=""><figcaption><p>Withdrawal Initialization on Destination Chain Withdraws Tokens From The Bridge Pool Into The User's Wallet Into - <a href="https://isoflow.io/app/project/ckzr24q3hm0ch0838p1gpdz0k">See Full Flow</a></p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/MultiChain Bridge Withdrawal - Token Withdrawal - BridgePool.gif" alt=""><figcaption><p>Withdrawal Initialization on Destination Chain Withdraws Tokens From The Bridge Pool Into The User's Wallet Into - <a href="https://isoflow.io/app/project/ckzr24q3hm0ch0838p1gpdz0k">See Full Flow</a></p></figcaption></figure>
 
 #### Liquidity Management by Token Administrator
 

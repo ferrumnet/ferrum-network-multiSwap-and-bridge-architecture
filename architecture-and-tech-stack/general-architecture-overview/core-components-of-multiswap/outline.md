@@ -4,7 +4,7 @@ Quantum Routing
 
 1. Swap - Source
    1. Swap or bridge
-   2. Optemized Swap
+   2. Optimized Swap
 2. Bridging and Settlement
 3. Swap - Destination
 
