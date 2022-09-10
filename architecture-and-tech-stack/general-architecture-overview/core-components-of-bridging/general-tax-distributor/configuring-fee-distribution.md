@@ -1,4 +1,6 @@
-# 📬 General Tax Distributor
+# ⚙ Configuring Fee Distribution
+
+
 
 There are 2 things to setup in the GeneralTaxDistributor SC `setTokenInfo` and `setTokenTargetInfos`.
 
