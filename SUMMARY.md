@@ -18,7 +18,7 @@
         * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management/overview.md)
         * [🚀 Liquidity Setup](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management/liquidity-setup.md)
         * [🪙 Liquidity Replenishment With Reverse Swaps](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/liquidity-management/liquidity-replenishment-with-reverse-swaps.md)
-      * [🌁 Bridging of Assets](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/bridging-of-assets/README.md)
+      * [🌁 Bridging of Assets](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/bridging-of-assets.md)
         * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/bridging-of-assets/overview.md)
         * [🤝 Swap Initiation](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/bridging-of-assets/swap-initiation.md)
         * [💰 Withdrawals](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/bridge-pool/bridging-of-assets/withdrawals.md)
