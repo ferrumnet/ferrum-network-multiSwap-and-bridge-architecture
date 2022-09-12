@@ -12,6 +12,7 @@ A typical FIBER call includes the following parameters:
 4. `destinationFerrumNetworkIdentifier`
 5. `amountSourceCABN` or `amountDestinationCABN`
    1. One of these values must be provided
+6. `slippage`: default max 2% per chain
 
 {% hint style="info" %}
 See [Glossary & Acronyms](../../../../resources/glossary-and-acronyms/) for more detail on `CABN` and `ferrumNetworkIdentifier`
