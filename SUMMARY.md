@@ -34,7 +34,7 @@
       * [⛓ Ionic Assets](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/asset-types/ionic-assets.md)
     * [⚡ FIBER - Ferrum Inter Blockchain Express Routing Engine](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/README.md)
       * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/overview.md)
-      * [🗄 Asset Categorization and Route Optimization](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/asset-categorization-and-route-optimization/README.md)
+      * [🗄 Asset Categorization and Route Optimization](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/asset-categorization-and-route-optimization.md)
         * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/asset-categorization-and-route-optimization/overview.md)
         * [📂 Example of Asset Categorization](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/asset-categorization-and-route-optimization/example-of-asset-categorization.md)
       * [🌁 Bridging and Settlement](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/bridging-and-settlement.md)

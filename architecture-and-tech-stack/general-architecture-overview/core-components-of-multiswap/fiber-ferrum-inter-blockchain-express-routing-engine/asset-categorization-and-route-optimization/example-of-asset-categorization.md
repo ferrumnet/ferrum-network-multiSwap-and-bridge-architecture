@@ -1,6 +1,6 @@
 # 📂 Example of Asset Categorization
 
-Let's take a A typical FIBER call includes the following parameters:
+Let's take a typical FIBER call and add some example parameters to understand the flow of events.
 
 1. `sourceCABN`
 2. `sourceFerrumNetworkIdentifier`
