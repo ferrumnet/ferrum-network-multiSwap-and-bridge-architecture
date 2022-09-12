@@ -51,3 +51,6 @@
   * [Pocket Network Integration (Non-EVM Network) Example](resources/resources-and-links/pocket-network-integration-non-evm-network-example.md)
   * [Deployment Pipeline Updates](resources/resources-and-links/deployment-pipeline-updates.md)
   * [Connecting EVM and Non-EVM](resources/resources-and-links/connecting-evm-and-non-evm.md)
+* [📚 Glossary & Acronyms](resources/glossary-and-acronyms/README.md)
+  * [🗄 Glossary](resources/glossary-and-acronyms/glossary.md)
+  * [🗃 Acronyms](resources/glossary-and-acronyms/acronyms.md)
