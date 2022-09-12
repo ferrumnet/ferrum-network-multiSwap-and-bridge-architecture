@@ -29,4 +29,4 @@ Conducts if there is pair liquidity available with the bridgeable asset. i.e. Is
 
 #### Aggregated Best Quote Check (ABQC)
 
-`aggregatedBestQuoteCheck` a check for the best price on source and destination networks
+`aggregatedBestQuoteCheck` a check for the best price on source and destination networks. Checks quotes from aggregators such as 1inch and compares those quotes against DEX quotes from DEX Router contracts. Suggest all options available rated from best to worst.
