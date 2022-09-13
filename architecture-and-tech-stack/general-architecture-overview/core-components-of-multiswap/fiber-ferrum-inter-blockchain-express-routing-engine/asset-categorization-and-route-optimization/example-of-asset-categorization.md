@@ -19,9 +19,13 @@ The information below is just to demonstrate the logic used by FIBER to categori
 
 When FIBER receives this call, it starts the process of categorizing the `sourceCABN` and `destinationCABN`. In order to categorize the FIBER engine conducts the following checks:
 
+<img src="../../../../../.gitbook/assets/file.drawing (1).svg" alt="FIBER Request - Asset Categorization" class="gitbook-drawing">
+
 #### Foundry Asset Check (FAC)
 
 Conducts a`bridgePool` liquidity check to determine if the asset has sufficient liquidity available in the `bridgePool` to be categorized as a [Foundry Asset](../../asset-types/foundry-assets.md) for this swap.
+
+<img src="../../../../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 #### Refinery or Ionic Asset Check (RIAC)
 
@@ -30,3 +34,4 @@ Conducts if there is pair liquidity available with the bridgeable asset. i.e. Is
 #### Aggregated Best Quote Check (ABQC)
 
 `aggregatedBestQuoteCheck` a check for the best price on source and destination networks. Checks quotes from aggregators such as 1inch and compares those quotes against DEX quotes from DEX Router contracts. Suggest all options available rated from best to worst.
+
