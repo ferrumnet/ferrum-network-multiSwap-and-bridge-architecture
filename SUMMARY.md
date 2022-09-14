@@ -46,6 +46,7 @@
         * [⚖ Settlement](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/bridging-and-settlement/settlement.md)
     * [🔥 FORGE - Ferrum Optimal Routing Gas Estimation Engine](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/forge-ferrum-optimal-routing-gas-estimation-engine/README.md)
       * [📐 Overview - FORGE](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/forge-ferrum-optimal-routing-gas-estimation-engine/overview-forge.md)
+      * [⛽ Gas Estimation](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/forge-ferrum-optimal-routing-gas-estimation-engine/gas-estimation.md)
     * [Outline](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/outline.md)
   * [⚡ Node Infrastructure](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/README.md)
     * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/overview.md)
