@@ -4,10 +4,10 @@ description: >-
   product overview and background.
 ---
 
-# MultiSwap and Two-Way Liquidity Pool Bridge
+# MultiSwap and MultiChain Liquidity Pool Bridge
 
 {% hint style="info" %}
-**Good to know:** MultiSwap allows users to securely bridge any asset on network 1 for any asset on network 2 at transaction speed. Two-Way Liquidity Pool Bridge enables users to swap any asset on network 1 for the same native token on network 2.
+**Good to know:** MultiSwap allows users to securely bridge any asset on network 1 for any asset on network 2 at transaction speed. MultiChain Liquidity Pool Bridge enables users to swap any asset on network 1 for the same native token on network 2.
 {% endhint %}
 
 ## Product Overview and Background

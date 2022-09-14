@@ -1,6 +1,6 @@
 # 📂 Example of Asset Categorization
 
-Let's take [a typical FIBER call](../overview.md#typical-fiber-request) and add some example parameters to understand the flow of events.
+Let's take [a typical FIBER call](../overview-fiber.md#typical-fiber-request) and add some example parameters to understand the flow of events.
 
 {% hint style="info" %}
 These are not actual FIBER call parameters. Some of these parameters will require querying the FIBER engine to get`CABN`, or `ferrumNetworkIdentifer` information.

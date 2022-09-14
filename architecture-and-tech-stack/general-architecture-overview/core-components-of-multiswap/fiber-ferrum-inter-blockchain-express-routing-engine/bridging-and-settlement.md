@@ -1,6 +1,6 @@
 # 🌁 Bridging and Settlement
 
-The flow of swap and bridging of assets across chains follows four simple steps
+The flow of swap and bridging of assets across chains follows four steps known as MultiChain Settlement Flow (MCSF)
 
 1. Swap from User Asset to Bridgeable/Settlement Asset
 2. Bridging of Asset
