@@ -12,6 +12,10 @@ Currency Address by Network
 
 Foundry Asset Check
 
+#### RDR
+
+Release and Deposit Request
+
 #### RIAC
 
 Refinery or Ionic Asset Check
