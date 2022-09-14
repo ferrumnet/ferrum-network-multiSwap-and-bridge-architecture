@@ -4,5 +4,5 @@
 
 All other asset types must be converted to a Foundry Assets in order to facilitate bridging of these assets across chains.
 
-<img src="../../../../../../.gitbook/assets/file.drawing.svg" alt="Swap To &#x26; From Bridgeable Asset" class="gitbook-drawing">
+<img src="../../../../../../.gitbook/assets/file.drawing (4).svg" alt="Swap To &#x26; From Bridgeable Asset" class="gitbook-drawing">
 
