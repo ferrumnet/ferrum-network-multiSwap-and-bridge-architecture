@@ -13,7 +13,8 @@ The information below is just to demonstrate the logic used by FIBER to categori
 3. `destinationCABN`: USDT
 4. `destinationFerrumNetworkIdentifier`: Polygon
 5. `amountSourceCABN`: 100000000000000000000 (wei value)
-6. `slippage`: 2% per chain (4% total)
+6. `destinationAddress`: 0xdestination
+7. `slippage`: 2% per chain (4% total)
 
 ### **FIBER Asset Categorization**
 
