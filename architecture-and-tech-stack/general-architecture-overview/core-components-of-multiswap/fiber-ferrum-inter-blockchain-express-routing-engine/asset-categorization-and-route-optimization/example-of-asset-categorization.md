@@ -25,7 +25,7 @@ When FIBER receives this call, it starts the process of categorizing the `source
 
 Conducts a`bridgePool` liquidity check on destination network to determine if the asset has sufficient liquidity available in the `bridgePool` to be categorized as a [Foundry Asset](../../asset-types/foundry-assets.md) for this swap.
 
-<img src="../../../../../.gitbook/assets/file.drawing (4).svg" alt="FIBER request - Asset Categorization - FIAC Flow" class="gitbook-drawing">
+<img src="../../../../../.gitbook/assets/file.drawing (4) (1).svg" alt="FIBER request - Asset Categorization - FIAC Flow" class="gitbook-drawing">
 
 #### Refinery or Ionic Asset Check (RIAC)
 
