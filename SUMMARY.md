@@ -50,7 +50,7 @@
       * [🏦 MultiSwap Fee Estimation](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/forge-ferrum-optimal-routing-gas-estimation-engine/multiswap-fee-estimation.md)
     * [⏳ Future Work](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/future-work.md)
   * [⚡ Node Infrastructure](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/README.md)
-    * [📐 Overview](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/overview.md)
+    * [📐 Overview - Node Infrastructure](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/overview-node-infrastructure.md)
     * [🔍 Generator Node](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/generator-node.md)
     * [🕵 Validator Nodes](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/validator-nodes.md)
     * [✒ Master Node](architecture-and-tech-stack/general-architecture-overview/node-infrastructure/master-node.md)
