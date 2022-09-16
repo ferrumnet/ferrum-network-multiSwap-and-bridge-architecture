@@ -1,4 +1,4 @@
-# 📐 Overview
+# 📐 Overview - Bridging of Assets
 
 ### Transparency, Security, and Speed
 
@@ -8,7 +8,7 @@ The MultiChain Liquidity Pool Bridge approaches bridging through a swap and with
 
 #### Security
 
-Each swap transaction has the intent of the bridge transfer embedded in it. This means that an immutable record on the source chain is created the moment a swap is initialized. Instead of solely relying on validator or relay node infrastructure, the transaction authentication and verification process treats the on-chain data as the source of truth. The benefit of this approach is that even if the master node signature is compramised for withdrawal item creation, the withdrawal can only be sent to the address defined in the origination swap transaction of the transfer. Meaning the hacker will pay the gas to transfer tokens into the intended user's wallet doing the user a favor by paying gas fees for them.
+Each swap transaction has the intent of the bridge transfer embedded in it. This means that an immutable record on the source chain is created the moment a swap is initialized. Instead of solely relying on validator or relay node infrastructure, the transaction authentication and verification process treats the on-chain data as the source of truth. The benefit of this approach is that even if the master node signature is compromised for withdrawal item creation, the withdrawal can only be sent to the address defined in the origination swap transaction of the transfer. Meaning the hacker will pay the gas to transfer tokens into the intended user's wallet doing the user a favor by paying gas fees for them.
 
 #### Speed
 
