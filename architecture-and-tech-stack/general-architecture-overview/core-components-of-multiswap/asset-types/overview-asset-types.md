@@ -1,6 +1,6 @@
-# 📐 Overview - Asset Types
+# 📐 Overview
 
-MultiSwap's routing engine, FIBER, categorizes assets into three distinct types depending on their liquidity setup.
+MultiSwap's routing engine FIBER looks categorizes assets into two distinct types depending on their liquidity setup.
 
 There are three main categories of assets currently:
 
