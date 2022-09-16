@@ -18,7 +18,7 @@ Before adding liquidity, you will need to complete Mapping Tokens on Bridge Pool
 
 ### Adding Single Asset Liquidity to Bridge Pool
 
-To add initial liquidity, we recommend using our liquidity management dashboard. You can use the Ferrum dashboard or your own whitelabeled link if you are utilizing our whitelabel bridge implementation.
+To add initial liquidity, we recommend using our liquidity management dashboard. You can use the Ferrum dashboard or your own white labeled link if you are utilizing our white label bridge implementation.
 
 1. Go to the [Ferrum Liquidity Management Dashboard](https://bridge.ferrum.network/frm/liquidity/add)
 2. Connect your wallet and select the desired network
@@ -28,7 +28,7 @@ To add initial liquidity, we recommend using our liquidity management dashboard.
 
 <figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Ferrum Liquidity Management Dashboard</p></figcaption></figure>
 
-The whitelabeled version can be accessed by going to your `bridgeUrl/liquidity/add`
+The white labeled version can be accessed by going to your `bridgeUrl/liquidity/add`
 
 ### Removing Liquidity
 

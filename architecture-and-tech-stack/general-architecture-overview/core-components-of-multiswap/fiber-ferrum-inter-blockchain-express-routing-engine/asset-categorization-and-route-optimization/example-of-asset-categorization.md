@@ -30,7 +30,7 @@ Conducts a`bridgePool` liquidity check on destination network to determine if th
 
 #### Refinery or Ionic Asset Check (RIAC)
 
-Conducts if there is pair liquidity available with the bridgeable asset. i.e. Is it possible to convert user's asset to bridgeable asset in a single hop or swap. If the user's asset can be swapped for the bridgeable asset in a single hop then the asset will be categorized as a [Refinery Asset](../../asset-types/refinery-assets.md). Otherwise the asset will be categorized as an [Ionic Asset](../../asset-types/ionic-assets.md).
+Conducts if there is pair liquidity available with the bridgeable asset. i.e. Is it possible to convert user's asset to bridgeable asset in a single hop or swap. If the user's asset can be swapped for the bridgeable asset in a single hop, then the asset will be categorized as a [Refinery Asset](../../asset-types/refinery-assets.md). Otherwise the asset will be categorized as an [Ionic Asset](../../asset-types/ionic-assets.md).
 
 <img src="../../../../../.gitbook/assets/file.drawing (3).svg" alt="FIBER request - Asset Categorization - RIAC Flow" class="gitbook-drawing">
 

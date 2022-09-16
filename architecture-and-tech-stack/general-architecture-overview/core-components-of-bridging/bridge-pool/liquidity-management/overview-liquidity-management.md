@@ -1,4 +1,4 @@
-# 📐 Overview
+# 📐 Overview - Liquidity Management
 
 ### Risk Mitigation through Decentralization
 
@@ -18,7 +18,7 @@ Over time these bridge liquidity pools can grow in size to billions in assets lo
 
 #### Scale with Limited Exposure
 
-The MutliChain Liquidity Pool Bridge maps native assets across networks to enable bridging. This means the bridge itself doesn't mint any tokens. Instead, the supply of the tokens across networks is managed by the administrators of the token contract. Typically these administrators are either the DAO or the management team of that specific organization.
+The Multichain Liquidity Pool Bridge maps native assets across networks to enable bridging. This means the bridge itself doesn't mint any tokens. Instead, the supply of the tokens across networks is managed by the administrators of the token contract. Typically these administrators are either the DAO or the management team of that specific organization.
 
 A significant benefit of this approach is the ability to conduct hundreds of millions to billions in transacted volume with minuscule liquidity lockups. For example, the Ferrum MultiChain bridge has already done over a quarter billion dollars in transacted volume across Ethereum, Polygon, and BSC, with the average locked liquidity of under 5 million in the bridge pool across networks. All excess liquidity is constantly moved into decentralized multisig safes.
 

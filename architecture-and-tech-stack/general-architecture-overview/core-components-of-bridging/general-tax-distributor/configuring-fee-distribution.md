@@ -20,7 +20,7 @@ There are 2 things to setup in the GeneralTaxDistributor SC `setTokenInfo` and `
      * `token (address)`
        * This is the Token Contract Address for the token you are adding on the current network.
      * `infos (tuple[])`
-       * This is a tuple is a list of addresses that will receive the fee distribtuion for this token. Use this format to add the list of addresses
+       * This is a tuple is a list of addresses that will receive the fee distribution for this token. Use this format to add the list of addresses
          * `[["ferrumFeeShareDistributionAddress",2], ["clientFeeShareDistributionAddress",2]]`
      * `weights (uint216)`
        * This is the distribution split. i.e. 50/50, 60/40 etc. You need to enter a `uint216 hex` here. Use this value for 50/50 splits

@@ -1,6 +1,6 @@
 # 🔍 Generator Node
 
-The Generator Node is one of the first components in Ferrum Network's Node Infrastructure that looks for, validates and generates withdrawal request items on destination networks for depositted tokens on origin networks.
+The Generator Node is one of the first components in Ferrum Network's Node Infrastructure that looks for, validates and generates withdrawal request items on destination networks for deposited tokens on origin networks.
 
 ![Generator Node](<../../../.gitbook/assets/Generator Node.jpg>)
 
