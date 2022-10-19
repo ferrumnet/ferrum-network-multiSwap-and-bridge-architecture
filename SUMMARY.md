@@ -5,7 +5,6 @@
 ## 📐 Architecture and Tech Stack
 
 * [🚩 Architecture issues](architecture-and-tech-stack/architecture-issues.md)
-* [👥 Stakeholders](architecture-and-tech-stack/stakeholders.md)
 * [✏ General Architecture Overview](architecture-and-tech-stack/general-architecture-overview/README.md)
   * [🛠 dApp Tech Stack](architecture-and-tech-stack/general-architecture-overview/dapp-tech-stack.md)
   * [⚙ Core Components of Bridging](architecture-and-tech-stack/general-architecture-overview/core-components-of-bridging/README.md)
