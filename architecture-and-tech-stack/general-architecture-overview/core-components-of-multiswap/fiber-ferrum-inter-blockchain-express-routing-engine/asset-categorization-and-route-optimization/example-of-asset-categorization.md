@@ -15,6 +15,7 @@ The information below is just to demonstrate the logic used by FIBER to categori
 5. `amountSourceCABN`: 100000000000000000000 (wei value)
 6. `destinationAddress`: 0xdestination
 7. `slippage`: 2% per chain (4% total)
+8. `platformFeeCABN`: BNB
 
 ### **FIBER Asset Categorization**
 
