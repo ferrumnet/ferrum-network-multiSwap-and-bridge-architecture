@@ -16,6 +16,7 @@ The information below is just to demonstrate the logic used by FIBER to categori
 6. `destinationAddress`: 0xdestination
 7. `slippage`: 2% per chain (4% total)
 8. `platformFeeCABN`: BNB
+9. isFeeEnabled: true
 
 ### **FIBER Asset Categorization**
 

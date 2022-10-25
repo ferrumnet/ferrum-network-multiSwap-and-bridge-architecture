@@ -36,6 +36,7 @@
       * [🧠 FIBER Engine](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/fiber-engine.md)
       * [🔄 FIBER Router](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/fiber-router.md)
       * [🏦 Fund Manager](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/fund-manager.md)
+      * [🪙 Fee Manager](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/fee-manager.md)
       * [🗄 Asset Categorization and Route Optimization](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/asset-categorization-and-route-optimization.md)
         * [📐 Overview - Asset & Route Optimization](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/asset-categorization-and-route-optimization/overview-asset-and-route-optimization.md)
         * [📂 Example of Asset Categorization](architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap/fiber-ferrum-inter-blockchain-express-routing-engine/asset-categorization-and-route-optimization/example-of-asset-categorization.md)

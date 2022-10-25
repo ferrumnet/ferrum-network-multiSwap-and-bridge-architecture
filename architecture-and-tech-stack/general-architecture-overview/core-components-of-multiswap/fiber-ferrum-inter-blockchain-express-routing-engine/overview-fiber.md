@@ -17,6 +17,7 @@ A typical FIBER call includes the following parameters:
 6. `destinationAddress`
 7. `slippage`: default max 2% per chain
 8. `platformFeeCABN`
+9. `isFeeEnabled`
 
 {% hint style="info" %}
 See [Glossary & Acronyms](../../../../resources/glossary-and-acronyms/) for more detail on `CABN` and `ferrumNetworkIdentifier`
