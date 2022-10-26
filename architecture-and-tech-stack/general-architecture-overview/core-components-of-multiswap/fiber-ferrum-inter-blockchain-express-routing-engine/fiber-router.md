@@ -39,7 +39,7 @@ The scenarios include
 2. Foundry Asset to Refinery Asset Swap
    1. 100 USDC on Ethereum to 0.345793423 BNB on BSC
 3. Foundry Asset to Ionic Asset Swap
-   1. 100 USDC on Ethereum to PAID on BSC
+   1. 100 USDC on Ethereum to 20.5912 XVS on BSC
 4.
 
 ### Foundry Asset to Foundry Asset swap request
