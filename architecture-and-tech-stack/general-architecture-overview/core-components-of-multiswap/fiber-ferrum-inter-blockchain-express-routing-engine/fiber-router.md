@@ -19,3 +19,25 @@ On the destination network, when the FIBER Router receives a [Foundry Asset](../
 When the FIBER Router receives a [Refinery Asset](../asset-types/refinery-assets.md) or [Ionic Asset](../asset-types/ionic-assets.md) swap request from the [FIBER Engine](fiber-engine.md) on the source network, it takes the requested [Refinery Asset](../asset-types/refinery-assets.md) or [Ionic Asset](../asset-types/ionic-assets.md) tokens out of the user's wallet, moves them to the FIBER Router, then initiates the relevant DEX or Aggregator swap of this [Refinery Asset](../asset-types/refinery-assets.md) or [Ionic Asset](../asset-types/ionic-assets.md) to a [Foundry Asset](../asset-types/foundry-assets.md). Once the swap is completed, the DEX or Aggregator router deposits the [Foundry Asset](../asset-types/foundry-assets.md) into the FIBER Router. The router then deposits these tokens into the [Fund Manager](fund-manager.md) while sending the Fees to the [Fee Manager](fee-manager.md) if this is a fee-enabled transaction.&#x20;
 
 On the destination network, when the FIBER Router receives a [Refinery Asset](../asset-types/refinery-assets.md) or [Ionic Asset](../asset-types/ionic-assets.md) withdrawSwapAndDeposit request from the [FIBER Engine](fiber-engine.md), it takes the requested [Foundry Asset](../asset-types/foundry-assets.md) tokens from the [Fund Manager](fund-manager.md), deposits them in the FIBER Router, then initiates the relevant DEX or Aggregator swap of this [Foundry Asset](../asset-types/foundry-assets.md) to the requested [Refinery Asset](../asset-types/refinery-assets.md) or [Ionic Asset](../asset-types/ionic-assets.md). Once the swap is completed, the DEX or Aggregator router deposits the [Refinery Asset](../asset-types/refinery-assets.md) or [Ionic Asset](../asset-types/ionic-assets.md) into the FIBER Router. The router then deposits these tokens into the provided destination wallet.
+
+## The flow of a MultiChain swap
+
+Any MultiChain swap begins with a [`multiChainSwap`](overview-fiber.md#typical-multichainswap-request-sent-to-fiber-engine) call to the [FIBER Engine](fiber-engine.md). After receiving the `multiChainSwap` request, the FIBER Engine conducts a series of checks to categorize the source and destination assets involved in the swap. The [Example of Asset Categorization](asset-categorization-and-route-optimization/example-of-asset-categorization.md) section covers these checks in detail.
+
+{% content-ref url="asset-categorization-and-route-optimization/example-of-asset-categorization.md" %}
+[example-of-asset-categorization.md](asset-categorization-and-route-optimization/example-of-asset-categorization.md)
+{% endcontent-ref %}
+
+### Example swap scenarios
+
+After the assets on the source and destination network are properly categorized, and the optimal route for the swap has been determined by the [FIBER Engine](fiber-engine.md), it sends the request to the FIBER Router to execute the necessary transfers. We will cover those transfer scenarios in detail now.
+
+#### Foundry Asset to Foundry Asset swap request
+
+Example: 100 USDC on Ethereum to be swapped for FRM on BSC
+
+First, let's go over how these were categorized.
+
+
+
+<img src="../../../../.gitbook/assets/file.drawing.svg" alt="FIBER request - Asset Categorization - FIAC Flow" class="gitbook-drawing">

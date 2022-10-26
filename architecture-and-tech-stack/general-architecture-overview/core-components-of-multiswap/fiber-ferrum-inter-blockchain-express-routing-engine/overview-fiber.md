@@ -4,7 +4,7 @@
 
 At a high level, FIBER is responsible for finding the optimal path to conduct swaps across chains, as well as bridging and settlement; depending on the asset type. If the asset has liquidity in the `bridgePool` these assets are classified as Foundry Assets. All foundry assets benefit from reduced fees during a swap across chains as one less swap needs to be conducted on the source or destination chain. FIBER conducts its work through FIBER Engine which interacts with the FIBER Router, Fund Manager, and external entities.&#x20;
 
-### Typical FIBER request
+### Typical `multiChainSwap` request sent to [FIBER Engine](fiber-engine.md)
 
 A typical FIBER call includes the following parameters:
 
