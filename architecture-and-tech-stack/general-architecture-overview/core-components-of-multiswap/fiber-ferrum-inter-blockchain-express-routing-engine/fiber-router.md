@@ -41,3 +41,5 @@ First, let's go over how these were categorized.
 
 
 <img src="../../../../.gitbook/assets/file.drawing.svg" alt="FIBER request - Asset Categorization - FIAC Flow" class="gitbook-drawing">
+
+The source and destination assets have been categorized as [Foundry Assets](../asset-types/foundry-assets.md) by the [FIBER Engine](fiber-engine.md), as demonstrated in the flow above. The FIBER Engine will now send a command to the [FIBER Router](fiber-router.md) to transfer the funds in accordance with the following optimal path.
