@@ -32,7 +32,17 @@ Any MultiChain swap begins with a [`multiChainSwap`](overview-fiber.md#typical-m
 
 After the assets on the source and destination network are properly categorized, and the optimal route for the swap has been determined by the [FIBER Engine](fiber-engine.md), it sends the request to the FIBER Router to execute the necessary transfers. We will cover those transfer scenarios in detail now.
 
-#### Foundry Asset to Foundry Asset swap request
+The scenarios include
+
+1. Foundry Asset to Foundry Asset Swap
+   1. 100 USDC on Ethereum to 3,164.5569620253 FRM on BSC
+2. Foundry Asset to Refinery Asset Swap
+   1. 100 USDC on Ethereum to 0.345793423 BNB on BSC
+3. Foundry Asset to Ionic Asset Swap
+   1. 100 USDC on Ethereum to PAID on BSC
+4.
+
+### Foundry Asset to Foundry Asset swap request
 
 Example: 100 USDC on Ethereum to be swapped for FRM on BSC
 
