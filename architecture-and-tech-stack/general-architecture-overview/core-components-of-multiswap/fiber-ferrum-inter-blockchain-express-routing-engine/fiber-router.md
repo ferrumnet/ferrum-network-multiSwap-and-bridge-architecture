@@ -34,13 +34,24 @@ After the assets on the source and destination network are properly categorized,
 
 The scenarios include
 
-1. Foundry Asset to Foundry Asset Swap
+1. [Foundry Asset to Foundry Asset Swap](fiber-router.md#foundry-asset-to-foundry-asset-swap-request)
    1. 100 USDC on Ethereum to 3,164.5569620253 FRM on BSC
-2. Foundry Asset to Refinery Asset Swap
+2. F[oundry Asset to Refinery Asset Swap](fiber-router.md#foundry-asset-to-refinery-asset-swap)
    1. 100 USDC on Ethereum to 0.345793423 BNB on BSC
 3. Foundry Asset to Ionic Asset Swap
    1. 100 USDC on Ethereum to 20.5912 XVS on BSC
-4.
+4. Refinery Asset to Foundry Asset Swap
+   1. 0.345793423 BNB on BSC to 100 USDC on Ethereum
+5. Refinery Asset to Refinery Asset Swap
+   1. 0.06422277597 ETH on Ethereum to 0.345793423 BNB on BSC
+6. Refinery Asset to Ionic Asset Swap
+   1. 0.06422277597 ETH on Ethereum to 20.5912 XVS on BSC
+7. Ionic Asset to Foundry Asset Swap
+   1. 20.5912 XVS on BSC to 100 USDC on Ethereum
+8. Ionic Asset to Refinery Asset Swap
+   1. 20.5912 XVS on BSC to 0.345793423 BNB on BSC
+9. Ionic Asset to Ionic Asset Swap
+   1. 896.059 ALPHA on Ethereum to 20.5912 XVS on BSC
 
 ### Foundry Asset to Foundry Asset swap request
 
@@ -55,3 +66,10 @@ First, let's go over how these were categorized.
 The source and destination assets have been categorized as [Foundry Assets](../asset-types/foundry-assets.md) by the [FIBER Engine](fiber-engine.md), as demonstrated in the flow above. The FIBER Engine will now send a command to the [FIBER Router](fiber-router.md) to transfer the funds in accordance with the following optimal path.
 
 <img src="../../../../.gitbook/assets/file.drawing.svg" alt="Foundry Asset to Foundry Asset Swap" class="gitbook-drawing">
+
+### Foundry Asset to Refinery Asset Swap
+
+Example: 100 USDC on Ethereum to 0.345793423 BNB on BSC
+
+First, let's go over how these were categorized.
+
