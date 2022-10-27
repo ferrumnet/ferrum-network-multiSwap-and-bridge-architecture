@@ -71,7 +71,7 @@ The source and destination assets have been categorized as [Foundry Assets](../a
 
 Example: 100 USDC on Ethereum to 0.345793423 BNB on BSC
 
-First, let's go over how these were categorized.
+Let's go over how these were categorized.
 
 <img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="FIBER request - Asset Categorization - FIAC &#x26; RIAC Flow Example" class="gitbook-drawing">
 
