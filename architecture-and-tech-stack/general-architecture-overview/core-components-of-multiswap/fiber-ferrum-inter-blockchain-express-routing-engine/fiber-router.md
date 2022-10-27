@@ -61,7 +61,7 @@ First, let's go over how these were categorized.
 
 
 
-<img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="FIBER request - Asset Categorization - FIAC Flow Example" class="gitbook-drawing">
+<img src="../../../../.gitbook/assets/file.drawing (5).svg" alt="FIBER request - Asset Categorization - FIAC Flow Example" class="gitbook-drawing">
 
 The source and destination assets have been categorized as [Foundry Assets](../asset-types/foundry-assets.md) by the [FIBER Engine](fiber-engine.md), as demonstrated in the flow above. The FIBER Engine will now send a command to the [FIBER Router](fiber-router.md) to transfer the funds in accordance with the following optimal path.
 
@@ -72,4 +72,6 @@ The source and destination assets have been categorized as [Foundry Assets](../a
 Example: 100 USDC on Ethereum to 0.345793423 BNB on BSC
 
 First, let's go over how these were categorized.
+
+<img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="FIBER request - Asset Categorization - FIAC &#x26; RIAC Flow Example" class="gitbook-drawing">
 
