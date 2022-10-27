@@ -36,7 +36,7 @@ The scenarios include
 
 1. [Foundry Asset to Foundry Asset Swap](fiber-router.md#foundry-asset-to-foundry-asset-swap-request)
    1. 100 USDC on Ethereum to 3,164.5569620253 FRM on BSC
-2. F[oundry Asset to Refinery Asset Swap](fiber-router.md#foundry-asset-to-refinery-asset-swap)
+2. F[oundry Asset to Refinery Asset Swap](fiber-router.md#foundry-asset-to-refinery-asset-swap) _**- In Progress**_
    1. 100 USDC on Ethereum to 0.345793423 BNB on BSC
 3. Foundry Asset to Ionic Asset Swap
    1. 100 USDC on Ethereum to 20.5912 XVS on BSC
@@ -77,3 +77,4 @@ Let's go over how these were categorized.
 
 The source asset has been categorized as a [Foundry Asset](../asset-types/foundry-assets.md), and the destination asset has been categorized as a [Refinery Asset](../asset-types/refinery-assets.md) by the [FIBER Engine](fiber-engine.md), as demonstrated in the flow above. The FIBER Engine will now send a command to the [FIBER Router](fiber-router.md) to transfer the funds in accordance with the following optimal path.
 
+### To be continued - Optimal Path FA to RA
