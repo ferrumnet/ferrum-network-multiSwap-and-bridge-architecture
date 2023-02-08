@@ -1,6 +1,6 @@
 # 🧠 FIBER Engine
 
-FIBER Engine is the brains behind MultiSwap. It is the main source of contact for anyone looking to do a MultiChian swap utilizing MultiSwap.&#x20;
+FIBER Engine is the brains behind MultiSwap. It is the main source of contact for anyone looking to do a MultiChain swap utilizing MultiSwap.&#x20;
 
 ### :pencil: The Checks
 
