@@ -16,7 +16,7 @@ In the `bridgePool` the mapping of tokens can be set up by utilizing the `allowT
 
 Here are the instructions to do so:
 
-1. Go to the `bridePool` smart contract on the relevant networks explorer. e.g _BSC Scan, Rinkeby Etherscan etc_.
+1. Go to the `bridgePool` smart contract on the relevant networks explorer. e.g _BSC Scan, Rinkeby Etherscan etc_.
 2. Go to `Write Contract` and connect the admin wallet. _Make sure you are on the correct network otherwise the wallet will not connect_.
 3. Setting `allowTarget`. _This needs to be set up for each pair that should be mapped to the token. For example, suppose you are setting the FRM token on BSC Testnet to be mapped to the FRM token on Rinkeby and Mumbai (Polygon) testnet. In that case, you will need to add the token contract information of the current network (BSC Testnet) FRM token and each destination token in two separate transactions._
    * Go to `allowTarget` and add the following details to add the token.
