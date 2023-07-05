@@ -1,3 +1,2 @@
 # ✏ General Architecture Overview
 
-****

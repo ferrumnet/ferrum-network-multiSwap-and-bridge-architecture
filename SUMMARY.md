@@ -69,4 +69,5 @@
   * [🗄 Glossary](resources/glossary-and-acronyms/glossary.md)
   * [🗃 Acronyms](resources/glossary-and-acronyms/acronyms.md)
 * [❔ FAQs](resources/faqs/README.md)
-  * [Overview](resources/faqs/overview.md)
+  * [📐 Overview - FAQs](resources/faqs/overview-faqs.md)
+  * [❔ MultiSwap - FAQs](resources/faqs/multiswap-faqs.md)
