@@ -68,3 +68,5 @@
 * [📚 Glossary & Acronyms](resources/glossary-and-acronyms/README.md)
   * [🗄 Glossary](resources/glossary-and-acronyms/glossary.md)
   * [🗃 Acronyms](resources/glossary-and-acronyms/acronyms.md)
+* [❔ FAQs](resources/faqs/README.md)
+  * [Overview](resources/faqs/overview.md)
