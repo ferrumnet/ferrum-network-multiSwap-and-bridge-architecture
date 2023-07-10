@@ -27,3 +27,7 @@ Smart Contract Address by Network
 #### MCSF
 
 MultiChain Settlement Flow
+
+#### FAQs&#x20;
+
+Frequently Asked Questions

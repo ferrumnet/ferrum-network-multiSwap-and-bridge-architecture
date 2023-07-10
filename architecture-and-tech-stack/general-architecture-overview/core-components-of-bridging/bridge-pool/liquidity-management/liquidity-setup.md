@@ -26,7 +26,7 @@ To add initial liquidity, we recommend using our liquidity management dashboard.
 4. Enter the desired amount of tokens in the input field
 5. Click or touch the add liquidity button and go through the transactions flow in MetaMask
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Ferrum Liquidity Management Dashboard</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ferrum Liquidity Management Dashboard</p></figcaption></figure>
 
 The white labeled version can be accessed by going to your `bridgeUrl/liquidity/add`
 
