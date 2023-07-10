@@ -1,10 +1,6 @@
 ---
-description: General questions and there answers are described here related to Multiswap.
+description: General questions and their answers are described here related to MultiSwap.
 ---
 
 # ❔ FAQs
 
-####
-
-\
-\
