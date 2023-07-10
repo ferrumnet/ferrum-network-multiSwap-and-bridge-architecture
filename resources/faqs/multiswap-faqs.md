@@ -85,9 +85,13 @@ You can search for available tokens by typing in the token name or pasting the t
 
 MetaMask and Kepler wallet extensions are required for making swaps between EVM to NON-EVM; however, only MetaMask is sufficient if you swap between EVM to EVM chains.&#x20;
 
-## How do multi-chain swaps work?
+## Are there any fees for using MultiSwap?
 
-Multi-chain swaps work through various processes based on the Asset's category, described as Foundry, Ionic, and Refinery assets. Please refer to the following link for more details.
+Currently there are no platform fees for using MultiSwap, you just pay for the gas charged by the network. Otherwise, MultiSwap is fee free for the time being.
+
+## How do multichain swaps work?
+
+Multichain swaps work through various processes based on the Asset's category, described as Foundry, Ionic, and Refinery assets. Please refer to the following link for more details.
 
 {% content-ref url="../../architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap.md" %}
 [core-components-of-multiswap.md](../../architecture-and-tech-stack/general-architecture-overview/core-components-of-multiswap.md)

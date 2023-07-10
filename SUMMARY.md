@@ -71,3 +71,7 @@
 * [❔ FAQs](resources/faqs/README.md)
   * [📐 Overview - FAQs](resources/faqs/overview-faqs.md)
   * [❔ MultiSwap - FAQs](resources/faqs/multiswap-faqs.md)
+  * [💸 Are there any fees for using MultiSwap?](resources/faqs/are-there-any-fees-for-using-multiswap.md)
+  * [🔄 Which networks are supported in MultiSwap?](resources/faqs/which-networks-are-supported-in-multiswap.md)
+  * [💰 Which Wallets are supported in MultipSwap?](resources/faqs/which-wallets-are-supported-in-multipswap.md)
+  * [⁉ How to get support and report bugs?](resources/faqs/how-to-get-support-and-report-bugs.md)
