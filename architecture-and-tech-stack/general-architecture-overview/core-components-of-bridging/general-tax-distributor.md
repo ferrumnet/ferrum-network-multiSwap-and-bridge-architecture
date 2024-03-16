@@ -1,2 +1,0 @@
-# 📬 General Tax Distributor
-

@@ -1,2 +1,0 @@
-# ⚙ Core Components of Bridging
-
